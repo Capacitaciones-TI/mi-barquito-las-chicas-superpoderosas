@@ -1,3 +1,3 @@
 Algoritmo barquito
-    Escribir "Mi barquito viene cargado de X que comiencen con LETRA, como ..."
+    Escribir "Mi barquito viene cargado de empresas que comiencen con A, como Apple"
 FinAlgoritmo
